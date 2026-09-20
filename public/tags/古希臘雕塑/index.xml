@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>古希臘雕塑 on Museum Notes | 博物館展覽筆記</title>
-    <link>http://localhost:1313/tags/%E5%8F%A4%E5%B8%8C%E8%87%98%E9%9B%95%E5%A1%91/</link>
+    <link>http://localhost:1313/museum-notes/tags/%E5%8F%A4%E5%B8%8C%E8%87%98%E9%9B%95%E5%A1%91/</link>
     <description>Recent content in 古希臘雕塑 on Museum Notes | 博物館展覽筆記</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 15 Sep 2026 14:30:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%8F%A4%E5%B8%8C%E8%87%98%E9%9B%95%E5%A1%91/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/museum-notes/tags/%E5%8F%A4%E5%B8%8C%E8%87%98%E9%9B%95%E5%A1%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>走訪羅浮宮：薩莫色雷斯的勝利女神與古典雕塑隨想</title>
-      <link>http://localhost:1313/posts/louvre-visit/</link>
+      <link>http://localhost:1313/museum-notes/posts/louvre-visit/</link>
       <pubDate>Tue, 15 Sep 2026 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/louvre-visit/</guid>
+      <guid>http://localhost:1313/museum-notes/posts/louvre-visit/</guid>
       <description>&lt;h2 id=&#34;展覽資訊&#34;&gt;展覽資訊&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;參觀日期：&lt;/strong&gt; 2026 年秋&lt;/li&gt;
