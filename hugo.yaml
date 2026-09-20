@@ -1,0 +1,33 @@
+baseURL: "https://<你的GitHub帳號>.github.io/"
+title: "Museum Notes | 博物館展覽筆記"
+theme: "PaperMod"
+languageCode: "zh-tw"
+
+params:
+  env: "production"
+  title: "Museum Notes"
+  description: "個人觀展記錄與展品筆記"
+  author: "Your Name"
+
+  homeInfoParams:
+    Title: "🏛️ 博物館與展覽筆記"
+    Content: "記錄走訪各地博物館的見聞、展品隨筆與個人觀展心得。"
+
+  cover:
+    hiddenInList: false
+    hiddenInSingle: false
+
+menu:
+  main:
+    - identifier: posts
+      name: "全部展覽"
+      url: "/posts/"
+      weight: 10
+    - identifier: tags
+      name: "展覽標籤"
+      url: "/tags/"
+      weight: 20
+    - identifier: categories
+      name: "城市/地區"
+      url: "/categories/"
+      weight: 30
